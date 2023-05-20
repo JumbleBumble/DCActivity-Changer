@@ -6,6 +6,8 @@ INSTALLATION:
 Release: Just download the release, extract the DCActivity folder and then run DCActivity.exe
 
 Source: 
+Install Python 3.11
+
 Install Customtkinter with pip by using the following command -> pip install customtkinter
 
 Download the Discord Game SDK from either this repository or https://dl-game-sdk.discordapp.net/2.5.6/discord_game_sdk.zip.
