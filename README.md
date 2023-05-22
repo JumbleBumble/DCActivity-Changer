@@ -1,4 +1,4 @@
-# DCActivity-Changer
+# Dicord Activity Changer
 Let's you change your discord activity to whatever you want using a GUI.
 
 INSTALLATION:
