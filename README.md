@@ -1,6 +1,9 @@
 # Dicord Activity Changer
 Let's you change your discord activity to whatever you want using a GUI.
 
+![DCACTIVITY](https://github.com/JumbleBumble/Discord-Activity-Changer/assets/113152254/b9e93104-fa48-4dd2-84ca-3fe6ab45a698)
+
+
 INSTALLATION:
 
 Release: Just download the release, extract the DCActivity folder and then run DCActivity.exe
